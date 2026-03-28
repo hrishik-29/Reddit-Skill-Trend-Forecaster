@@ -1,0 +1,17 @@
+keyword,model,score_2026
+deep learning,LinearRegression,50.367641476453024
+machine learning,LinearRegression,45.55658107342841
+generative AI,LinearRegression,41.816497890344884
+online learning,LinearRegression,40.21566708463206
+RAG system,LinearRegression,40.16674016938149
+cloud computing,LinearRegression,39.68632023193681
+human machine collaboration,LinearRegression,38.56293353536103
+uncertainty quantification,XGBoostRegressor,38.24381764729818
+natural language processing,LinearRegression,37.12270110805292
+cybersecurity,LinearRegression,36.50267119290655
+physical AI,LinearRegression,35.20810435603652
+AI ethics,LinearRegression,31.166810091029955
+autonomous systems,LinearRegression,29.522128809481256
+data engineering,LinearRegression,27.224766392943824
+real-time fraud detection,LinearRegression,25.17845073475082
+conformal prediction,Persistence,23.43079197107781

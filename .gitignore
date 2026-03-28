@@ -1,0 +1,17 @@
+# Python Virtual Environment
+.venv/
+venv/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project Specific Ignore (Huge unprocessed data dumps inside)
+Initial datasets/
+notebook_outputs/
+notebook_source.py

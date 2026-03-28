@@ -1,0 +1,193 @@
+keyword,model,date,predicted_score
+conformal prediction,Persistence,2025-11-01,23.43079197107781
+conformal prediction,Persistence,2025-12-01,23.43079197107781
+conformal prediction,Persistence,2026-01-01,23.43079197107781
+conformal prediction,Persistence,2026-02-01,23.43079197107781
+conformal prediction,Persistence,2026-03-01,23.43079197107781
+conformal prediction,Persistence,2026-04-01,23.43079197107781
+conformal prediction,Persistence,2026-05-01,23.43079197107781
+conformal prediction,Persistence,2026-06-01,23.43079197107781
+conformal prediction,Persistence,2026-07-01,23.43079197107781
+conformal prediction,Persistence,2026-08-01,23.43079197107781
+conformal prediction,Persistence,2026-09-01,23.43079197107781
+conformal prediction,Persistence,2026-10-01,23.43079197107781
+online learning,LinearRegression,2025-11-01,49.96933262857182
+online learning,LinearRegression,2025-12-01,49.1600001607797
+online learning,LinearRegression,2026-01-01,47.37598239794899
+online learning,LinearRegression,2026-02-01,45.262643661821954
+online learning,LinearRegression,2026-03-01,43.04815982912882
+online learning,LinearRegression,2026-04-01,40.88643527059766
+online learning,LinearRegression,2026-05-01,38.81162897865545
+online learning,LinearRegression,2026-06-01,36.84204029127321
+online learning,LinearRegression,2026-07-01,35.002099838085726
+online learning,LinearRegression,2026-08-01,33.3477642354413
+online learning,LinearRegression,2026-09-01,31.959410541754604
+online learning,LinearRegression,2026-10-01,30.92250718152555
+cloud computing,LinearRegression,2025-11-01,43.324753036249135
+cloud computing,LinearRegression,2025-12-01,41.41489306677301
+cloud computing,LinearRegression,2026-01-01,40.141822349580025
+cloud computing,LinearRegression,2026-02-01,39.17486961844482
+cloud computing,LinearRegression,2026-03-01,38.58033163831964
+cloud computing,LinearRegression,2026-04-01,38.29153021470656
+cloud computing,LinearRegression,2026-05-01,38.28655495843078
+cloud computing,LinearRegression,2026-06-01,38.51439626565681
+cloud computing,LinearRegression,2026-07-01,38.91170149836619
+cloud computing,LinearRegression,2026-08-01,39.39793749004946
+cloud computing,LinearRegression,2026-09-01,39.88846213633615
+cloud computing,LinearRegression,2026-10-01,40.30859051032916
+natural language processing,LinearRegression,2025-11-01,43.6201643815967
+natural language processing,LinearRegression,2025-12-01,42.592319257314024
+natural language processing,LinearRegression,2026-01-01,41.491198195282784
+natural language processing,LinearRegression,2026-02-01,40.30139942619006
+natural language processing,LinearRegression,2026-03-01,39.21997940226029
+natural language processing,LinearRegression,2026-04-01,38.177793319818484
+natural language processing,LinearRegression,2026-05-01,37.099010921785016
+natural language processing,LinearRegression,2026-06-01,35.866059869228046
+natural language processing,LinearRegression,2026-07-01,34.40916460928778
+natural language processing,LinearRegression,2026-08-01,32.72550520844255
+natural language processing,LinearRegression,2026-09-01,30.897078252672735
+natural language processing,LinearRegression,2026-10-01,29.07274045275664
+generative AI,LinearRegression,2025-11-01,45.88258843752118
+generative AI,LinearRegression,2025-12-01,46.079967140437304
+generative AI,LinearRegression,2026-01-01,44.765403367946845
+generative AI,LinearRegression,2026-02-01,43.350947635736844
+generative AI,LinearRegression,2026-03-01,41.855411819933764
+generative AI,LinearRegression,2026-04-01,40.70203117059619
+generative AI,LinearRegression,2026-05-01,39.97857606112651
+generative AI,LinearRegression,2026-06-01,39.706882050275375
+generative AI,LinearRegression,2026-07-01,39.755149193571974
+generative AI,LinearRegression,2026-08-01,39.92518686198056
+generative AI,LinearRegression,2026-09-01,39.997254080432974
+generative AI,LinearRegression,2026-10-01,39.79857686457914
+data engineering,LinearRegression,2025-11-01,40.025965701466355
+data engineering,LinearRegression,2025-12-01,35.94549946178102
+data engineering,LinearRegression,2026-01-01,30.58718232838752
+data engineering,LinearRegression,2026-02-01,26.467172117550483
+data engineering,LinearRegression,2026-03-01,23.600334999858156
+data engineering,LinearRegression,2026-04-01,22.339375748249765
+data engineering,LinearRegression,2026-05-01,22.303998998782582
+data engineering,LinearRegression,2026-06-01,23.100173817272143
+data engineering,LinearRegression,2026-07-01,24.234504498228198
+data engineering,LinearRegression,2026-08-01,25.332937747855468
+data engineering,LinearRegression,2026-09-01,26.151811339056174
+data engineering,LinearRegression,2026-10-01,26.60823995683807
+AI ethics,LinearRegression,2025-11-01,42.90812372791682
+AI ethics,LinearRegression,2025-12-01,39.82627745000903
+AI ethics,LinearRegression,2026-01-01,36.091655845200385
+AI ethics,LinearRegression,2026-02-01,32.42608616317226
+AI ethics,LinearRegression,2026-03-01,29.290235875648598
+AI ethics,LinearRegression,2026-04-01,27.063729145841258
+AI ethics,LinearRegression,2026-05-01,25.928526924727468
+AI ethics,LinearRegression,2026-06-01,25.873299596657176
+AI ethics,LinearRegression,2026-07-01,26.687218334924584
+AI ethics,LinearRegression,2026-08-01,28.010018550537882
+AI ethics,LinearRegression,2026-09-01,29.410606706494068
+AI ethics,LinearRegression,2026-10-01,30.48594277122986
+real-time fraud detection,LinearRegression,2025-11-01,34.950591371643725
+real-time fraud detection,LinearRegression,2025-12-01,30.235153141730294
+real-time fraud detection,LinearRegression,2026-01-01,26.08417367323666
+real-time fraud detection,LinearRegression,2026-02-01,23.340797110677162
+real-time fraud detection,LinearRegression,2026-03-01,21.933114537104522
+real-time fraud detection,LinearRegression,2026-04-01,21.690453033257967
+real-time fraud detection,LinearRegression,2026-05-01,22.23205242756101
+real-time fraud detection,LinearRegression,2026-06-01,23.158019078244696
+real-time fraud detection,LinearRegression,2026-07-01,24.090690400429736
+real-time fraud detection,LinearRegression,2026-08-01,24.745140065540916
+real-time fraud detection,LinearRegression,2026-09-01,24.96145122577766
+real-time fraud detection,LinearRegression,2026-10-01,24.719772751805504
+autonomous systems,LinearRegression,2025-11-01,32.118371066945535
+autonomous systems,LinearRegression,2025-12-01,30.252540259800924
+autonomous systems,LinearRegression,2026-01-01,29.099472882969874
+autonomous systems,LinearRegression,2026-02-01,28.872340555186323
+autonomous systems,LinearRegression,2026-03-01,29.030828202533723
+autonomous systems,LinearRegression,2026-04-01,29.32221550303921
+autonomous systems,LinearRegression,2026-05-01,29.508420690634516
+autonomous systems,LinearRegression,2026-06-01,29.516955740563745
+autonomous systems,LinearRegression,2026-07-01,29.36999531999787
+autonomous systems,LinearRegression,2026-08-01,29.16299696757872
+autonomous systems,LinearRegression,2026-09-01,29.009533835932906
+autonomous systems,LinearRegression,2026-10-01,29.001874688591748
+cybersecurity,LinearRegression,2025-11-01,42.94385711493666
+cybersecurity,LinearRegression,2025-12-01,40.96576333086284
+cybersecurity,LinearRegression,2026-01-01,39.29853953335231
+cybersecurity,LinearRegression,2026-02-01,37.98559837507881
+cybersecurity,LinearRegression,2026-03-01,36.95995925137602
+cybersecurity,LinearRegression,2026-04-01,36.13225744697213
+cybersecurity,LinearRegression,2026-05-01,35.415289691231536
+cybersecurity,LinearRegression,2026-06-01,34.752620742662984
+cybersecurity,LinearRegression,2026-07-01,34.12757001041021
+cybersecurity,LinearRegression,2026-08-01,33.56114911737113
+cybersecurity,LinearRegression,2026-09-01,33.09871358725937
+cybersecurity,LinearRegression,2026-10-01,32.7907361133646
+machine learning,LinearRegression,2025-11-01,44.05936415473323
+machine learning,LinearRegression,2025-12-01,44.23278473517519
+machine learning,LinearRegression,2026-01-01,44.084522079042245
+machine learning,LinearRegression,2026-02-01,44.04394091254996
+machine learning,LinearRegression,2026-03-01,44.19067634985946
+machine learning,LinearRegression,2026-04-01,44.60229641939014
+machine learning,LinearRegression,2026-05-01,45.24513558004024
+machine learning,LinearRegression,2026-06-01,46.02578528694485
+machine learning,LinearRegression,2026-07-01,46.809494961434396
+machine learning,LinearRegression,2026-08-01,47.46164954507282
+machine learning,LinearRegression,2026-09-01,47.8835924885563
+machine learning,LinearRegression,2026-10-01,48.039730368342035
+human machine collaboration,LinearRegression,2025-11-01,50.31719417727105
+human machine collaboration,LinearRegression,2025-12-01,47.25075900465502
+human machine collaboration,LinearRegression,2026-01-01,43.65124987357541
+human machine collaboration,LinearRegression,2026-02-01,40.56362112084686
+human machine collaboration,LinearRegression,2026-03-01,38.15568168860197
+human machine collaboration,LinearRegression,2026-04-01,36.49496169826986
+human machine collaboration,LinearRegression,2026-05-01,35.44923646013633
+human machine collaboration,LinearRegression,2026-06-01,34.83811445205947
+human machine collaboration,LinearRegression,2026-07-01,34.4669870877041
+human machine collaboration,LinearRegression,2026-08-01,34.17775305978261
+human machine collaboration,LinearRegression,2026-09-01,33.871544557950486
+human machine collaboration,LinearRegression,2026-10-01,33.51809924347927
+deep learning,LinearRegression,2025-11-01,49.90633549206636
+deep learning,LinearRegression,2025-12-01,50.174980507762086
+deep learning,LinearRegression,2026-01-01,50.40075267007791
+deep learning,LinearRegression,2026-02-01,50.57883110439573
+deep learning,LinearRegression,2026-03-01,50.66616458439991
+deep learning,LinearRegression,2026-04-01,50.64780521656874
+deep learning,LinearRegression,2026-05-01,50.54130125404194
+deep learning,LinearRegression,2026-06-01,50.39077523568557
+deep learning,LinearRegression,2026-07-01,50.25499249559914
+deep learning,LinearRegression,2026-08-01,50.19152012787336
+deep learning,LinearRegression,2026-09-01,50.24118974448912
+deep learning,LinearRegression,2026-10-01,50.41704928447648
+RAG system,LinearRegression,2025-11-01,45.98162922569555
+RAG system,LinearRegression,2025-12-01,44.53765518981197
+RAG system,LinearRegression,2026-01-01,42.94788596623767
+RAG system,LinearRegression,2026-02-01,41.518813322122
+RAG system,LinearRegression,2026-03-01,40.29504747669485
+RAG system,LinearRegression,2026-04-01,39.342435978244275
+RAG system,LinearRegression,2026-05-01,38.666835707752455
+RAG system,LinearRegression,2026-06-01,38.23182736535291
+RAG system,LinearRegression,2026-07-01,37.961749175877735
+RAG system,LinearRegression,2026-08-01,37.76085048626734
+RAG system,LinearRegression,2026-09-01,37.536128769648975
+RAG system,LinearRegression,2026-10-01,37.2200233688722
+physical AI,LinearRegression,2025-11-01,40.364664061542086
+physical AI,LinearRegression,2025-12-01,38.83958803246934
+physical AI,LinearRegression,2026-01-01,37.50293976519973
+physical AI,LinearRegression,2026-02-01,36.381654856149154
+physical AI,LinearRegression,2026-03-01,35.479087093979274
+physical AI,LinearRegression,2026-04-01,34.77477892658912
+physical AI,LinearRegression,2026-05-01,34.22828942173142
+physical AI,LinearRegression,2026-06-01,33.78626245910965
+physical AI,LinearRegression,2026-07-01,33.393282799702476
+physical AI,LinearRegression,2026-08-01,33.00363308229089
+physical AI,LinearRegression,2026-09-01,32.59081676940218
+physical AI,LinearRegression,2026-10-01,32.15225500427286
+uncertainty quantification,XGBoostRegressor,2025-11-01,39.83205795288086
+uncertainty quantification,XGBoostRegressor,2025-12-01,35.48270034790039
+uncertainty quantification,XGBoostRegressor,2026-01-01,35.60017395019531
+uncertainty quantification,XGBoostRegressor,2026-02-01,35.69392013549805
+uncertainty quantification,XGBoostRegressor,2026-03-01,37.450103759765625
+uncertainty quantification,XGBoostRegressor,2026-04-01,38.481300354003906
+uncertainty quantification,XGBoostRegressor,2026-05-01,39.88682174682617
+uncertainty quantification,XGBoostRegressor,2026-06-01,39.25450134277344
+uncertainty quantification,XGBoostRegressor,2026-07-01,39.36152267456055
+uncertainty quantification,XGBoostRegressor,2026-08-01,40.1225471496582
+uncertainty quantification,XGBoostRegressor,2026-09-01,39.039119720458984
+uncertainty quantification,XGBoostRegressor,2026-10-01,38.72104263305664
